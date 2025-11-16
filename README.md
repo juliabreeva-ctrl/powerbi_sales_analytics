@@ -33,3 +33,16 @@ This dashboard summarizes a multi-region sales dataset and highlights:
 - Fact table with transaction-level sales and financial metrics  
 - Date table used for all time-based calculations  
 - One active and one inactive relationship (OrderDate / ShipDate)
+## Preview
+
+### Overview
+![Overview](screenshots/Overview.png)
+
+### Time Intelligence
+![Time Intelligence](screenshots/time_int.png)
+
+### Cumulative Revenue
+![Cumulative Revenue](screenshots/rev_cum.png)
+
+### Best Performer
+![Best Performer](screenshots/best_performer_item.png)
